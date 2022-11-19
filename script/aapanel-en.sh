@@ -68,7 +68,7 @@ chattr +i /www/server/panel/data/plugin.json
 chattr -i /www/server/panel/data/repair.json
 rm /www/server/panel/data/repair.json
 cd /www/server/panel/data
-wget https://ghproxy.com/https://raw.githubusercontent.com/AaronYES/aaPanel/main/resource/repair.json
+wget https://raw.githubusercontent.com/puarudz/aaPanel-Crack/main/resource/repair.json
 chattr +i /www/server/panel/data/repair.json
 red "cracked successfully."
 }
